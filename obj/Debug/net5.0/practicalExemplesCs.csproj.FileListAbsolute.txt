@@ -1,0 +1,5 @@
+C:\Users\Sorath\desktop\codes\github\dio\practicalExemplesCs\obj\Debug\net5.0\practicalExemplesCs.csproj.AssemblyReference.cache
+C:\Users\Sorath\desktop\codes\github\dio\practicalExemplesCs\obj\Debug\net5.0\practicalExemplesCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sorath\desktop\codes\github\dio\practicalExemplesCs\obj\Debug\net5.0\practicalExemplesCs.AssemblyInfoInputs.cache
+C:\Users\Sorath\desktop\codes\github\dio\practicalExemplesCs\obj\Debug\net5.0\practicalExemplesCs.AssemblyInfo.cs
+C:\Users\Sorath\desktop\codes\github\dio\practicalExemplesCs\obj\Debug\net5.0\practicalExemplesCs.csproj.CoreCompileInputs.cache
